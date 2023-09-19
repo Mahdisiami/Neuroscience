@@ -1,5 +1,5 @@
 # Neuroscience
-Foundation of Neuroscience project
+Foundation of Neuroscience Project
 
 Hello! This is my Neuroscience project repository projects questions are in Persian but there is my English report and commenting in code files.
 
